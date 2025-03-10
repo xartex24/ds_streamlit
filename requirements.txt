@@ -1,6 +1,0 @@
-streamlit
-plotly
-matplotlib
-seaborn
-sklearn
-data_modeling
